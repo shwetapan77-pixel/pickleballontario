@@ -1,0 +1,6 @@
+[
+  { "name": "John Smith", "location": "Toronto", "rating": "4.5", "club": "Mayfair" },
+  { "name": "Sarah Lee", "location": "Mississauga", "rating": "3.5", "club": "One Health" },
+  { "name": "Mike Ross", "location": "Scarborough", "rating": "4.0", "club": "Tam Heather" },
+  { "name": "Elena Rodriguez", "location": "North York", "rating": "5.0", "club": "OPA" }
+]
